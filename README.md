@@ -1,15 +1,26 @@
 # 🛑 Nigerian Scam Infrastructure — AS36352 Exposure
 
+<p align="center"><picture><source media="(max-width:600px) and (prefers-reduced-motion:reduce)" srcset="assets/readme-presentation/hero-mobile-poster.webp" /><source media="(prefers-reduced-motion:reduce)" srcset="assets/readme-presentation/hero-poster.webp" /><source media="(max-width:600px)" srcset="assets/readme-presentation/hero-mobile.webp" /><img src="assets/readme-presentation/hero.webp" width="100%" alt="Investigation overview" /></picture></p>
+
 <p align="center">
-  <img src="image.png" alt="Namesilo & Webnic — Core of Global Scam Infrastructure" width="300">
+<a href="https://phishdestroy.github.io/Nigerian-dignity/out/index.html"><img src="assets/readme-presentation/report.svg" width="238" height="56" alt="DOMAIN REPORT: Explore the published dataset" /></a>
+<a href="https://urlscan.io/asn/AS36352"><img src="assets/readme-presentation/scan.svg" width="238" height="56" alt="PUBLIC SCANS: AS36352 on urlscan.io" /></a>
+<a href="https://github.com/phishdestroy/Nigerian-dignity/tree/main/out"><img src="assets/readme-presentation/source.svg" width="238" height="56" alt="SOURCE PAGES: Browse the preserved report" /></a>
 </p>
+
+<details>
+<summary><strong>Original cover artwork · open full-size originals</strong></summary>
+
+<p align="center"><a href="image.png"><img src="assets/readme-presentation/original-cover-1.webp" width="300" alt="Original cover artwork" /></a></p>
+
+</details>
 
 > **Dataset:** This repository contains only a fraction of domains hosted on **two IP addresses** within **AS36352** (Betahost247, Nigeria).  
 > Full ASN search results are available here:  
 > - 🌐 https://urlscan.io/asn/AS36352  
 > - 🌐 https://urlscan.io/search/#page.asn:%22AS36352%22
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 🚨 Executive Summary
 Our OSINT investigation into Nigerian cybercrime infrastructure focused on **AS36352 (Betahost247)**.  
@@ -29,7 +40,7 @@ These stand out because **virtually no other major ICANN registrar operates this
 It also shows that **most other abuse reports were simply ignored**.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF707&width=435&lines=For+2025+at+least+30k%2B+abuse+reports.)](https://git.io/typing-svg)
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=F70000&background=0D111700&width=900&height=80&center=true&vCenter=true&lines=%241.03T+in+scams+—;how+much+could+be+saved+without+ignoring+abuse%3F)](https://git.io/typing-svg)
 
@@ -59,7 +70,7 @@ Scammers need:
 
 This is not oversight. This is **systematic facilitation of cybercrime**.
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 🆚 Comparison to responsible registrars
 Other large ICANN registrars (Namecheap, GoDaddy, Hostinger, etc.):
@@ -77,7 +88,7 @@ Other large ICANN registrars (Namecheap, GoDaddy, Hostinger, etc.):
   - 3.18.1: Maintain abuse contact
   - 3.18.2: Investigate and respond to abuse reports
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 🌍 Scale of the problem
 From our sample, scams target:
@@ -92,7 +103,7 @@ Content types include:
 - Fake medical offers for cancer patients
 - Sale of steroids and weapons
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 📈 Why it matters
 Shutting down one domain **does nothing** if the scammer can instantly replace it.  
@@ -104,7 +115,7 @@ These two registrars are effectively the **largest safe havens for global cyberc
 - Low risk of takedown
 - Global reach
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 🔍 What should happen
 - **ICANN Compliance** should immediately investigate **Namesilo** and **Webnic** for RAA 3.18 violations.
@@ -114,7 +125,7 @@ These two registrars are effectively the **largest safe havens for global cyberc
   - Immediate compliance with legitimate government abuse notices
 - Industry-wide policy change: Stop selling domains to known repeat abusers.
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 💬 Conclusion
 **Betahost247, Namesilo, and Webnic** are not simply negligent — they are **active enablers of global scam infrastructure**.  
@@ -123,7 +134,7 @@ The **black internet**, the majority of large-scale scam campaigns, and the pers
 
 Unless ICANN and regulators address the **root cause** — domain and hosting providers **protecting scammers** — the scale of cybercrime will remain unchanged.
 
----
+<p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 **Review links:**
 - https://www.trustpilot.com/review/nicenic.net  
