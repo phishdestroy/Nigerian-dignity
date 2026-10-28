@@ -15,19 +15,19 @@
 
 </details>
 
-> **Dataset:** This repository contains only a fraction of domains hosted on **two IP addresses** within **AS36352** (Betahost247, Nigeria).  
-> Full ASN search results are available here:  
+> **Dataset:** This repository contains only a fraction of domains hosted on **two IP addresses** within **AS36352 (ColoCrossing)**, with the investigated IP addresses associated with Betahost247.  
+> The [ARIN registry identifies AS36352 as AS-COLOCROSSING](https://rdap.arin.net/registry/autnum/36352). The network operator and an individual hosting provider or reseller are distinct roles. Full ASN search results are available here:  
 > - 🌐 https://urlscan.io/asn/AS36352  
 > - 🌐 https://urlscan.io/search/#page.asn:%22AS36352%22
 
 <p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
 ## 🚨 Executive Summary
-Our OSINT investigation into Nigerian cybercrime infrastructure focused on **AS36352 (Betahost247)**.  
+Our OSINT investigation into Nigerian cybercrime infrastructure focused on **two Betahost247-associated IP addresses within AS36352 (ColoCrossing)**.  
 Even with a small dataset, the pattern is undeniable:  
 > **We could not find a single legitimate website.**  
 
-This ASN exists **exclusively** to host criminal content — phishing, fraud, scams, fake shops — all at scale.  
+The examined hosting sample contains **criminal content** — phishing, fraud, scams and fake shops. This finding concerns the investigated IP addresses; it is not a census of every customer or address in AS36352.  
 
 The key enablers are **three ICANN-accredited registrars**:
 - **@namesilo**
@@ -85,8 +85,8 @@ Other large ICANN registrars (Namecheap, GoDaddy, Hostinger, etc.):
 - ❌ Delay takedowns for **weeks**
 - ❌ Keep scammer accounts active indefinitely
 - ❌ Ignore clear ICANN Registrar Accreditation Agreement (RAA) **Section 3.18** obligations:
-  - 3.18.1: Maintain abuse contact
-  - 3.18.2: Investigate and respond to abuse reports
+  - [3.18.1](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#3.18.1): Maintain an abuse contact and take reasonable and prompt steps to investigate and respond appropriately.
+  - [3.18.2](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en#3.18.2): Review well-founded illegal-activity reports from specified authorities within 24 hours when sent to the dedicated contact.
 
 <p align="center"><img src="assets/readme-presentation/divider.svg" width="100%" alt="" /></p>
 
